@@ -1,3 +1,40 @@
+# This was a truncated neutron data file from a mcstas simulation (by Gabriele Sala)
+# Format: McCode list with text headers
+# URL: http://www.mccode.org
+# Creator: McStas 2.3 - Apr. 06, 2016
+# Instrument: /SNS/users/gqs/Desktop/McStas/CHESS_May2017/CHESS_hawk_Jun17.instr
+# Ncount: 10466666
+# Trace: no
+# Gravitation: no
+# Seed: 1501146232
+# Directory: /SNS/users/gqs/Desktop/McStas/CHESS_May2017/CHESS_hawk_Jun17_20170726_182428
+# Nodes: 15
+# Param: Ei=1.08
+# Param: guidemvalue=3
+# Param: P1_nu=300
+# Param: P2_nu=300
+# Param: M1_nu=300
+# Param: M2_nu=300
+# Date: Wed Jul 26 19:05:33 2017 (1501110333)
+# type: array_2d(11, 15454)
+# Source: SNS_CHESS (/SNS/users/gqs/Desktop/McStas/CHESS_May2017/CHESS_hawk_Jun17.instr)
+# component: Scattering
+# position: 0 0 29.52
+# title:  Intensity Position Position Position Velocity Velocity Velocity Time_Of_Flight Spin Spin Spin Monitor (Square)
+# Ncount: 156999990
+# filename: beam.dat
+# statistics: X0=0; dX=0; Y0=0; dY=0;
+# signal: Min=0.0496675; Max=0.0496675; Mean=0;
+# values: 0 0 0
+# xvar: Li
+# yvar: p
+# xlabel: List of neutron events
+# ylabel: p x y z vx vy vz t sx sy sz
+# zvar: I
+# zlabel: Signal per bin
+# xylimits: 1 15454 1 11
+# variables: p x y z vx vy vz t sx sy sz
+# Data [Scattering/beam.dat] I:
 0.0496675 0.00263119 0.0107442 -0.0197 -2.0519 0.99766 455.391 0.0649352 0 0 0 
 0.0491708 -0.0034099 -3.67072e-05 -0.0197 0.845018 -5.07698 456.825 0.0649154 0 0 0 
 0.0477104 -0.00465476 -0.00336608 -0.0197 6.12669 -1.97135 411.019 0.0720033 0 0 0 
