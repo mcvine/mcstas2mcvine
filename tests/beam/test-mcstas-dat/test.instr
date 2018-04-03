@@ -1,0 +1,10 @@
+DEFINE INSTRUMENT test()
+DECLARE
+%{
+%}
+
+TRACE
+COMPONENT source=Virtual_input(filename="beam.dat")
+AT (0,0,0) absolute
+
+END
