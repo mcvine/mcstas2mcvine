@@ -1,0 +1,13 @@
+DEFINE INSTRUMENT test()
+DECLARE
+%{
+%}
+
+TRACE
+COMPONENT source=Virtual_input(filename="beam.dat")
+AT (0,0,0) absolute
+
+COMPONENT drain=Virtual_output(filename="beam-copy.dat")
+AT (0,0,0) absolute
+
+END
